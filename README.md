@@ -29,7 +29,8 @@ Steps performed in the project:
 4. Model evaluation
 5. Model deployment with Streamlit
 
-The trained model is saved using **Joblib** and loaded inside the web application.
+The trained model is saved using **Joblib** and loaded inside the web application. 
+Model Accuracy : 87%
 
 ---
 
