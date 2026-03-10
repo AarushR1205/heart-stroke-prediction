@@ -104,7 +104,7 @@ st.sidebar.write("Aarush Rawat")
 st.markdown(
     """
     <div class="header">
-        <div class="main-title">❤️ Heart Stroke Prediction AI</div>
+        <div class="main-title">❤️ Heart Stroke Prediction</div>
         <div class="sub-text">
         Machine Learning Powered Heart Risk Assessment Dashboard
         </div>
