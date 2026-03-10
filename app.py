@@ -164,7 +164,7 @@ st.write("")
 # Prediction
 # -------------------------------
 
-if st.button("🔍 Predict Heart Disease Risk"):
+if st.button("🔍 Predict Heart Stroke Risk"):
     raw_input = {
         "Age": age,
         "RestingBP": resting_bp,
